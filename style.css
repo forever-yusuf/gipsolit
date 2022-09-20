@@ -145,6 +145,9 @@ main h1{
     margin-top: 170px;
     border-radius:6px;
 }
+.carousel{
+    transition: 2s;
+}
 .main_last_one_input button{
     margin-top: 70px;
     border:none;
@@ -155,3 +158,314 @@ main h1{
     border-radius: 9px;
 
 }
+/* main-finish */
+/* section-start */
+.section_main{
+    background: url(img/bg.png);
+}
+.section_text{
+    text-align: center;
+    justify-content: center;
+    color: greenyellow;
+    margin-top: 55px;
+    padding: 50px 30px;
+}
+.section_page{
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    justify-content: center;
+    margin-top: 30px;
+}
+.section_top  p{
+    text-align: center;
+    justify-content: center;
+    margin-top: 35px;
+}
+.section_structure img{
+    margin-top: 50px;
+}
+.section_structure h4{
+    margin-top: 20px;
+}
+.section_structure p{
+    margin-top: 20px;
+    width: 250px;
+    margin-left: -15px;
+}
+.fa-1{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.fa-2{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.fa-3{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.fa-4{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.fa-5{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.fa-6{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.fa-7{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.fa-8{
+    margin-top: 150px;
+    font-size: 55px;
+    background: greenyellow;
+    color: aliceblue;
+    border-radius:50%;
+    width: 70px;
+    height: 70px;
+}
+.dection_main_struture_package p{
+    margin-top: 150px;
+    font-weight: bold;
+    margin-left: 25px;
+    font-size: 13px;
+    width: 180px;
+}
+.section_bottom{
+    padding: 70px 40px;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
+.fa-xmark{
+    color: red;
+    font-size: 30px;
+    margin-left: -305px;
+    margin-bottom: -30px;
+}
+.fa-check{
+    color: greenyellow;
+    font-size: 30px;
+    margin-left: -305px;
+    margin-bottom: -30px;
+}
+.section_menu_text{
+    margin-top: 120px;
+}
+.section_form_text{
+    margin-left: 30px;
+}
+.nurse_img{
+    position: absolute;
+    left: -4%;
+    top: 25%;
+    padding: 20px 50px;
+}
+.section_both{
+    background: url(img/brat.jpg)center/cover;
+    padding: 25px 70px 15px;
+}
+.section_better h2{
+    margin-top: 180px;
+    text-align: center;
+    justify-content: center;
+}
+.section_better p{
+    text-align: center;
+    justify-content: center;
+    font-size: 13px;
+    margin-top: 35px;
+}
+.section_better_section img{
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.section_better_section p{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.section_better_section h5{
+    margin-top: 35px;
+    color: rgb(145, 192, 74);
+    margin-left: 100px;
+}
+.section_better_text{
+    padding: 50px 30px;
+}
+.both_section h2{
+    margin-top: 100px;
+    width: 400px;
+}
+.both_section p{
+    margin-top: 50px;
+    width: 450px;
+}
+.both_section_form{
+    background: white;
+    border-radius:6px;
+    margin-left: 150px;
+    height: 300px;
+    margin-top: 100px;
+    flex-direction: column;
+}
+
+.both_section_form h5{
+    width: 200px;
+    text-align: center;
+    margin-left: 50px;
+    padding: 20px 0px 0px;
+}
+.both_section_form input{
+    width: 250px;
+    margin-left: 44px;
+    margin-top: 25px;
+    border-radius:2px;
+}
+.both_section_form button{
+    width: 250px;
+    height: 50px;
+    border-radius:9px;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 47px;
+    border: none;
+    background: orange;
+    color: aliceblue;
+}
+.text_official{
+    margin-bottom: 40px;
+    margin-left: 15px;
+}
+.section_between_top{
+    background: url(img/green.jpg);
+    padding: 50px 10px;
+}
+.section_between_top h2{
+padding: 50px 20px 20px;
+   text-align: center;
+   justify-content: center;
+   color: aliceblue;
+}
+.section_between_top p{
+   color: aliceblue;
+   margin-top: 50px;
+   text-align: center;
+   justify-content: center;
+}
+.section_between_top img{
+   margin-top: 100px;   
+   border-radius:4px;
+}
+.official_text p{
+    margin-top: 15px;
+}
+.official_text button{
+    margin-top: 25px;
+    margin-left: 130px;
+    width: 110px;
+    border-radius:9px;
+    border: none;
+    background: orange;
+    color: aliceblue;
+    height: 50px;
+}
+.section_last{
+    background: url(img/tractor.jpg )center/cover;
+    top: 50%;
+    right: 30%;
+    padding: 0px 10px 10px;
+}
+.palaceholder{
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 20px;
+    height: 60px;
+}
+.palaceholder_second{
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 300px;
+}
+.last_section_form{
+    background: white;
+    border-radius:6px;
+    margin-left: 150px;
+    height: 450px;
+    width: 300px;
+    margin-top: 100px;
+    flex-direction: column;   
+}
+.hfive{
+    margin-left: 25px;
+}
+.paleceholder_one{
+    width: 300px;
+    margin-left: 25px;
+    height: 30px;
+    margin-top: 20px;
+}
+.paleceholder_two{
+    width: 300px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.last_section_form button{
+   margin-left: 25px;
+   width: 300px;
+   height: 50px;
+   margin-top: 25px;
+   border-radius :9px;
+   border: none;   
+   color: aliceblue;
+   background: orange;
+
+}
+/* section-finish */
+/* footer-strat */
+.footer_one{
+    margin-top: 50px;
+}
+/* footer-finish */
